@@ -1,0 +1,26 @@
+{
+  "name": "newprojectnode-corn-jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhileshsoni098/NewProjectNode-corn-Jobs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhileshsoni098/NewProjectNode-corn-Jobs/issues"
+  },
+  "homepage": "https://github.com/akhileshsoni098/NewProjectNode-corn-Jobs#readme",
+  "dependencies": {
+    "cron": "^2.2.0",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.20"
+  }
+}
